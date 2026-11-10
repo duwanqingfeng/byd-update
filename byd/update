@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 705,
-  "versionName": "1.0.7",
-  "changelog": "停止向原作者服务器上传日志；我的页去掉小爱卡片；操作日志一屏 6 条；设置页检查更新按钮仅手动触发",
+  "versionCode": 706,
+  "versionName": "1.0.8",
+  "changelog": "蓝牙解锁补上云端复核（操作日志能看到复核结果）；复核延时改为毫秒，锁车默认 3000ms、解锁默认 500ms；蓝牙页自动解锁 / 自动锁车拆成两个小板块",
   "apkUrl": "https://cdn.jsdelivr.net/gh/duwanqingfeng/byd-update@main/byd/app-latest.apk"
 }
