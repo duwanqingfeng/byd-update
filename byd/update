@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 704,
-  "versionName": "1.0.6",
-  "changelog": "设置页恢复「检查更新」按钮，只在点击时检查；不再自动/每日检查更新；更新源改为自建地址",
+  "versionCode": 705,
+  "versionName": "1.0.7",
+  "changelog": "停止向原作者服务器上传日志；我的页去掉小爱卡片；操作日志一屏 6 条；设置页检查更新按钮仅手动触发",
   "apkUrl": "https://cdn.jsdelivr.net/gh/duwanqingfeng/byd-update@main/byd/app-latest.apk"
 }
