@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 703,
-  "versionName": "1.0.5",
-  "changelog": "关闭后台检测更新；修复桌面长按快捷方式（解锁/锁车/上电）",
-  "apkUrl": "https://把你的域名填到这里/byd/app-latest.apk"
+  "versionCode": 704,
+  "versionName": "1.0.6",
+  "changelog": "设置页恢复「检查更新」按钮，只在点击时检查；不再自动/每日检查更新；更新源改为自建地址",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/duwanqingfeng/byd-update@main/byd/app-latest.apk"
 }
