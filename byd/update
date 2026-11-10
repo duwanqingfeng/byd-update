@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 708,
-  "versionName": "1.0.10",
-  "changelog": "首页车辆卡片换成山景日出图；桌面小组件内置背景新增「山河日落」；更新检查改走 fastly 线路，避免 CDN 旧缓存",
+  "versionCode": 709,
+  "versionName": "1.0.11",
+  "changelog": "更新检查改为国内 Gitee 直链，点检查更新立即生效；首页山景背景 / 小组件内置背景「山河日落」",
   "apkUrl": "https://cdn.jsdelivr.net/gh/duwanqingfeng/byd-update/byd/app-latest.apk"
 }
