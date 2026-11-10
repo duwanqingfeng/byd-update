@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "versionCode": 703,
+  "versionName": "1.0.5",
+  "changelog": "关闭后台检测更新；修复桌面长按快捷方式（解锁/锁车/上电）",
+  "apkUrl": "https://把你的域名填到这里/byd/app-latest.apk"
+}

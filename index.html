@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BYD.云控 更新站</title>
+<style>
+  body{margin:0;padding:32px 20px;background:#0f1216;color:#e8eaed;
+       font:16px/1.7 -apple-system,"Segoe UI",Roboto,"Microsoft YaHei",sans-serif}
+  .box{max-width:560px;margin:0 auto}
+  h1{font-size:22px;margin:0 0 4px}
+  p.sub{color:#8b949e;margin:0 0 24px}
+  .card{background:#171b21;border:1px solid #23282f;border-radius:14px;padding:18px 20px;margin-bottom:16px}
+  .kv{display:flex;justify-content:space-between;padding:6px 0;color:#b6bcc4;font-size:15px}
+  .kv b{color:#e8eaed;font-weight:600}
+  a.btn{display:block;text-align:center;background:#2f81f7;color:#fff;text-decoration:none;
+        padding:13px;border-radius:10px;font-weight:600}
+  code{background:#23282f;padding:2px 6px;border-radius:6px;font-size:13px;word-break:break-all}
+</style>
+</head>
+<body>
+<div class="box">
+  <h1>BYD.云控 更新站</h1>
+  <p class="sub">自建更新通道 · 静态站点</p>
+
+  <div class="card">
+    <div class="kv"><span>当前发布版本</span><b>1.0.5</b></div>
+    <div class="kv"><span>versionCode</span><b>703</b></div>
+    <div class="kv"><span>更新清单</span><code>byd/update</code></div>
+  </div>
+
+  <div class="card">
+    <a class="btn" href="byd/app-latest.apk">下载最新 APK</a>
+  </div>
+
+  <p class="sub">App 内置的更新检查请求 <code>byd/update</code>，返回 JSON 里的 apkUrl 指向
+  <code>byd/app-latest.apk</code>。每次发版只需覆盖这两个文件，不用改 App。</p>
+</div>
+</body>
+</html>
