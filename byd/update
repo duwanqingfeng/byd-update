@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "versionCode": 706,
-  "versionName": "1.0.8",
-  "changelog": "蓝牙解锁补上云端复核（操作日志能看到复核结果）；复核延时改为毫秒，锁车默认 3000ms、解锁默认 500ms；蓝牙页自动解锁 / 自动锁车拆成两个小板块；更新检查改走不缓存的地址",
+  "versionCode": 707,
+  "versionName": "1.0.9",
+  "changelog": "首页车辆卡片背景换成山景日出图；桌面小组件设置里新增内置背景「山河日落」",
   "apkUrl": "https://cdn.jsdelivr.net/gh/duwanqingfeng/byd-update/byd/app-latest.apk"
 }
